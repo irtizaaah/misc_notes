@@ -1,0 +1,3 @@
+2024-07-03 19:38:50 - custom - DEBUG - This message should be logged because it mentions part1
+2024-07-03 19:38:50 - custom - DEBUG - This message should NOT be logged because it doesn't mention part1
+2024-07-03 19:38:50 - custom - DEBUG - This message should NOT be logged because it doesn't mention part1
